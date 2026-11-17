@@ -9,8 +9,7 @@ seja bem-vindo! Sou o **Gabriel Reis**, Cloud Engineer, e por aqui você encontr
 - 📫 Me encontre nas redes:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/gabriel-cardoso1994/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
   <a href="https://SEU-SITE.com" target="_blank"><img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
 </div>
 
@@ -34,6 +33,10 @@ seja bem-vindo! Sou o **Gabriel Reis**, Cloud Engineer, e por aqui você encontr
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logoColor=white" alt="Oracle Cloud">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Apache Tomcat">
 </p>
 
 ---
